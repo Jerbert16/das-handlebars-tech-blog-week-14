@@ -1,0 +1,48 @@
+header, .project:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+  height: 200px;
+  background-color: #251a10;
+}
+
+nav > a {
+  color: rgb(232, 232, 232);
+  margin: 5px;
+}
+
+body {
+  background-color:#d9ece2; 
+}
+
+h1 {
+display: flex;
+justify-content: center;
+background-color:#c6e7d6;
+border-radius: 5px;
+height: 50px;
+width: 8em;
+}
+
+h2 > a {
+  color:#251a10;
+}
+
+.no-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #1b89bc;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.no-button:hover {
+  color: #065b83;
+  text-decoration: underline;
+}
+
+.dollar-amount {
+  color: #056605;
+  font-weight: bold;
+  margin-left: -5px;
+}
