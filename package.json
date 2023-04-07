@@ -1,0 +1,23 @@
+{
+  "name": "week-14-hold-onto-your-handlebars",
+  "version": "1.0.0",
+  "description": "## Project Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerbert16/das-handlebars-tech-blog-week-14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerbert16/das-handlebars-tech-blog-week-14/issues"
+  },
+  "homepage": "https://github.com/Jerbert16/das-handlebars-tech-blog-week-14#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
