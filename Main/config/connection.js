@@ -1,3 +1,4 @@
+//connection boilerplate
 const Sequelize = require('sequelize');
 require('dotenv').config();
 
